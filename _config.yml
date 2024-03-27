@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Ankit M Patel"
-resume_title:                   "Technical Architect | Tech Lead | Sr. Software Engineer"
+resume_title:                   "Technical Architect & Lead"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "hello@gmail.com"
